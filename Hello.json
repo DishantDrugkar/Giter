@@ -28,5 +28,10 @@
     "name" : "kochikame",
     "age" : 31,
     "email" : "kochikame@gmail.com"
+  },
+  {
+    "name" : "Adam",
+    "age" : 1,
+    "email" : "kochikame@gmail.com"
   }
 ]
