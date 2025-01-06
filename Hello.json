@@ -1,5 +1,17 @@
-{
+[
+ {
   "name" : "Dishant",
   "age" : 21,
   "email" : "Dishantdrugkar4@gmail.com"
-}
+ },
+  {
+    "name" : "Bootcoding",
+    "age" : 57,
+    "email" : "Bootcoding@gmail.com"
+  },
+  {
+    "name" : "Ryotsu",
+    "age" : 13,
+    "email" : "Ryotsu@gmail.com"
+  }
+]
